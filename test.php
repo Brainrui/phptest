@@ -8,3 +8,4 @@
 echo "这是一个测试";
 echo "这不仅仅是个测试";
 print '测试merge';
+echo 'git自动化测试';
